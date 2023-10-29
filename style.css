@@ -1,0 +1,172 @@
+/* INDEX*/
+
+.body_form_gerente{
+    background-image: linear-gradient( #b691d2,  #fff);
+}
+
+.h2_inicio {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #862c92;
+    border-bottom: solid 1px #862c92;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+/* gerente */
+
+.h2_form{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #b691d2;
+    border-bottom: solid 1px #862c92;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.button_inicio{
+    background: #b691d2;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+
+/* inicio sesion */
+
+.logotipo_inicioS {
+    color: #b691d2;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+
+.text_inicioS{
+    color: rgb(179, 177, 177);
+    text-align: center;
+    font-size: 20px;
+    color: rgb(156, 155, 155);
+}
+
+.boton1 {
+    color: #b691d2;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 30px 60px 30px 60px;
+    padding: 100px;
+    border: solid #b691d2;
+    border-radius: 10px;
+}
+
+.boton1:hover {
+    background-color: #b691d2;
+    color:#fff;
+    margin: 30px 40px 30px 40px;
+    font-size: 25px;
+    padding: 110px;
+    transition-duration: 0.7s;
+}
+
+/*gerencia*/
+
+.h_gerencia {
+    border-bottom: solid 1px  #8f6794;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.h2_gerencia{
+    display: inline;
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #b691d2;
+    margin-left: 300px;
+    margin-right: 2px;
+    
+}
+
+.h3_gerencia {
+    display: inline;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 5px;
+    color: #862c92;
+
+}
+
+.nav_gerencia {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.nav_nav{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #b691d2;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.nav_nav:hover{
+    background-color: #b691d2;
+    color: #fff;
+    transition-duration: 0.9s;
+}
+
+.ul_body{
+    margin-top: 50px;
+}
+
+
+.ul_li{
+    display: inline;
+    background-color: #fff;
+    color: #b691d2;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 80px;
+    padding: 10px 50px;
+    border-radius: 5px;
+}
+
+.ul_li:hover {
+    background-color: #b691d2;
+    color: #fff;
+    transition: 1s;
+}
+
+.img_velocimetro{
+    width: 300px;
+    margin-left: 500px;
+    display: inline;
+}
+
+.img_body {
+    display: inline;
+    text-align: center;
+}
+
+.h3_dashboard {
+    color: rgb(188, 186, 186);
+}
+
+.h2_marketing {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: solid 1px #b691d2;
+}
+
+
+
