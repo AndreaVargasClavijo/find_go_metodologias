@@ -15,9 +15,9 @@
     <head>
         <div class="h_gerencia">
             <h2 class="h2_gerencia">MAYORCA</h2>
-        <h3 class="h3_gerencia">FIND GO</h3>
+            <h3 class="h3_gerencia">FIND GO</h3>
         </div>
-        
+
 
         <nav class="nav_gerencia">
             <a class="nav_nav" href="estadistica.html">ESTADISTICAS</a>
@@ -25,33 +25,49 @@
         </nav>
     </head>
 
+
+
     <div class="img_body">
         <img class="img_velocimetro" src="velocimetro1.png" alt="estadistica general diaria qr">
         <h3 class="h3_dashboard">estadistica general escaneo QR diario</h3>
     </div>
     <div class="estadistica_body">
         <ul class="ul_body">
-            <li class="ul_li">estadistica mensual</li>
-            <li class="ul_li">estadistica semanal</li>
-            <li class="ul_li">estadistica diario</li>
+            <a href="#" class="modal__ul">
+                <li class="ul_li">estadistica diaria</li>
+            </a>
+            <a href="#" class="modal__ul2">
+                <li class="ul_li">estadistica semanal</li>
+            </a>
+            <a href="#" class="modal__ul3">
+                <li class="ul_li">estadistica diario</li>
+            </a>
         </ul>
     </div>
-    
+
+    <section class="modal">
+        <div class="modal__container">
+            <h2 class="modal__title">INFORME DIARIO ESCANEO QR</h2>
+
+            <img src="dashboard_modal1.png" class="modal__img">
+            <p class="modal_paragraph">total ingreso 1.050 personas</p>
+            <a href="#" class="modal__close">VOLVER</a>
+        </div>
+    </section>
+
+
+
+
 
     <div class="marketing_body">
         <h2 class="h2_marketing">MARKETING Y PUBLICIDAD</h2>
         <img class="img_velocimetro" src="grafico.png" alt="estadistica general diaria qr">
         <h3 class="h3_dashboard">estadistica general escaneo QR diario</h3>
     </div>
-    <div class="estadistica_body">
-        <ul class="ul_body">
-            <li class="ul_li">estadistica mensual</li>
-            <li class="ul_li">estadistica semanal</li>
-            <li class="ul_li">estadistica diario</li>
-        </ul>
-    </div>
-    
 
+
+
+    <script src="js/main.js"></script>
 </body>
 
 </html>
